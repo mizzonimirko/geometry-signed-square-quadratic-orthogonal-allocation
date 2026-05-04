@@ -39,9 +39,11 @@ Other recent MATLAB/Simulink versions should also work, but have not been explic
 
 If you use this code, please cite the corresponding paper:
 
+```bibtex
 @article{franchi_mizzoni_signed_quadratic_orthogonal_allocation,
   title   = {Global Geometry of Orthogonal Foliations in the Control Allocation of Signed-Quadratic Systems},
   author  = {Franchi, Antonio and Mizzoni, Mirko},
   journal = {Preprint},
   year    = {2026}
 }
+```
